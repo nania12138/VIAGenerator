@@ -116,6 +116,16 @@
         </widget>
        </item>
        <item>
+        <widget class="QCheckBox" name="checkBox">
+         <property name="toolTip">
+          <string>修改caniusevia.com至127.0.0.1,会使via官网无法访问</string>
+         </property>
+         <property name="text">
+          <string>屏蔽更新</string>
+         </property>
+        </widget>
+       </item>
+       <item>
         <widget class="QPushButton" name="pushButton_3">
          <property name="text">
           <string> 生成</string>

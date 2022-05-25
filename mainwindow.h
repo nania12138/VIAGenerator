@@ -26,6 +26,7 @@ private slots:
     void addKeysMember(Json::Value *rp, bool opt);
     void writeToFile(Json::Value *rp);
     void updateTemplate(QString *qfopath);
+    void blockUpdate(bool isChecked);
 
     void readJSONRootNamesMask(Json::Value *rp);
     void readJSONRootNames(Json::Value *rp, int layer, QString preLayer);
