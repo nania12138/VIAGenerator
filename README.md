@@ -16,5 +16,5 @@
 ## 原理
 ***
 * 修改用户目录/AppData/Roaming/VIA/config.json,层级可以看下图，只是遍历做了格式的转换，想了解可以看代码 ~~~没有注释，会很痛苦~~~
-* 原文件地址：https://caniusevia.com/keyboards.v2.json（注意hosts有没有修改），release中的config.json也是一样的，二选一即可，当你搞砸的时候可以替换
-http://assets.processon.com/chart_image/628b6ff56376893bcc138617.png
+* 原文件地址：(https://caniusevia.com/keyboards.v2.json)（注意hosts有没有修改），release中的config.json也是一样的，二选一即可，当你搞砸的时候可以替换
+![root](http://assets.processon.com/chart_image/628b6ff56376893bcc138617.png)
