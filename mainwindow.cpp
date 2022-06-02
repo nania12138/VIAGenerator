@@ -223,7 +223,7 @@ void MainWindow::readJSONToDefination(Json::Value *rp)
                     else if(elem == "h")
                     {
                         keyDefintion.h = nowValue.toFloat();
-                        keyDefintion.y += keyDefintion.h;
+                        //keyDefintion.y += keyDefintion.h;
                         iskeyHReDefintion = true;
                         qDebug() << "设置高度h:" << keyDefintion.h;
                     }
